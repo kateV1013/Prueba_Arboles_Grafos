@@ -1,0 +1,13 @@
+C:\Users\Equipo\Documents\Prueba-17-11-25\Arboles_Grafos\Arboles_Grafos\bin\Debug\Arboles_Grafos.exe.config
+C:\Users\Equipo\Documents\Prueba-17-11-25\Arboles_Grafos\Arboles_Grafos\bin\Debug\Arboles_Grafos.exe
+C:\Users\Equipo\Documents\Prueba-17-11-25\Arboles_Grafos\Arboles_Grafos\bin\Debug\Arboles_Grafos.pdb
+C:\Users\Equipo\Documents\Prueba-17-11-25\Arboles_Grafos\Arboles_Grafos\obj\Debug\Arboles_Grafos.csproj.AssemblyReference.cache
+C:\Users\Equipo\Documents\Prueba-17-11-25\Arboles_Grafos\Arboles_Grafos\obj\Debug\Arboles_Grafos.Form1.resources
+C:\Users\Equipo\Documents\Prueba-17-11-25\Arboles_Grafos\Arboles_Grafos\obj\Debug\Arboles_Grafos.Properties.Resources.resources
+C:\Users\Equipo\Documents\Prueba-17-11-25\Arboles_Grafos\Arboles_Grafos\obj\Debug\Arboles_Grafos.csproj.GenerateResource.cache
+C:\Users\Equipo\Documents\Prueba-17-11-25\Arboles_Grafos\Arboles_Grafos\obj\Debug\Arboles_Grafos.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Documents\Prueba-17-11-25\Arboles_Grafos\Arboles_Grafos\obj\Debug\Arboles_Grafos.exe
+C:\Users\Equipo\Documents\Prueba-17-11-25\Arboles_Grafos\Arboles_Grafos\obj\Debug\Arboles_Grafos.pdb
+C:\Users\Equipo\Documents\Prueba-17-11-25\Arboles_Grafos\Arboles_Grafos\obj\Debug\Arboles_Grafos.exe.config
+C:\Users\Equipo\Documents\Prueba-17-11-25\Arboles_Grafos\Arboles_Grafos\obj\Debug\Arboles_Grafos.FormArbol.resources
+C:\Users\Equipo\Documents\Prueba-17-11-25\Arboles_Grafos\Arboles_Grafos\obj\Debug\Arboles_Grafos.FormGrafos.resources
